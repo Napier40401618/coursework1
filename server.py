@@ -91,7 +91,7 @@ def updatecountryByNamePage():
 		c = c)
 
 
-app.run(host='0.0.0.0', port=5638, debug=True)
+app.run(host='0.0.0.0', port=5618, debug=True)
 
 
 
