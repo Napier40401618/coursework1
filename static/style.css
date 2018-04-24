@@ -1,16 +1,15 @@
 body{
 	font-family:arial;
+	background-image: url(D:\world\static\flags\a.jpg);
+	background-color: red;
+
 }
 img.tiny{
     width: 20px;
     border: solid thin grey;	
 }
 img.big {
-    width: 200px;
-    border: solid thin grey;
-    position: absolute;
-    right: 1ex;
-    top: 1ex;
+  
 }
 
 .properties div div{
@@ -22,11 +21,11 @@ img.big {
 .properties div div:last-child{
 	font-weight: bold;
 }
-a{
-	text-decoration: none;
+a
+{
+    text-decoration: none;
 }
+    
 
-.nav_button{
-    border:solid gray thin;
-    bottom: auto;
-    }
+
+
